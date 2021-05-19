@@ -1,5 +1,7 @@
 # GaryGrappleHands
-VR Game for the Oculus Quest: Grapple, swing, & glide through two distinct cities and in a challenging skill-based mode.
+VR Game for the Oculus Quest.
+
+Grapple, swing, & glide through two distinct cities and in a challenging skill-based mode.
 
 Three Modes:
 - Delivery NYC - Get to the objective as fast as you can to get a high star rating!
